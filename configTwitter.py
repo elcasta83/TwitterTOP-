@@ -1,0 +1,7 @@
+#These information comes from Twitter API
+#Create a Twitter Account and Get These Information from apps.twitter.com
+
+CONSUMER_KEY = 'TWITTER_APP_CONSUMER_KEY'
+CONSUMER_SECRET = 'TWITTER_APP_CONSUMER_SECRET'
+ACCESS_TOKEN = 'TWITTER_APP_ACCESS_TOKEN'
+ACCESS_SECRET = 'TWITTER_APP_ACCESS_SECRET'
